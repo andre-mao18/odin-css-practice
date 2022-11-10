@@ -1,7 +1,19 @@
-div {
-    background-color: red;
-    color: white;
-    font-size: 32px;
+.odd {
+    background-color: rgb(255,0,162);
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+#item2 {
+    color: blue;
+    font-size: 36px;
+}
+
+#item3 {
+    font-size: 24px;
+}
+
+#item4 {
+    color: rgb(111, 255, 0);
+    font-size: 24px;
     font-weight: 700;
-    text-align: center;
 }
