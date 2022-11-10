@@ -3,16 +3,16 @@
     font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 
-#item2 {
+.three {
+    font-size: 24px;
+}
+
+#two {
     color: blue;
     font-size: 36px;
 }
 
-.item3 {
-    font-size: 24px;
-}
-
-#item4 {
+#four {
     color: rgb(111, 255, 0);
     font-size: 24px;
     font-weight: 700;
