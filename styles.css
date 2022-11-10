@@ -1,6 +1,6 @@
 .odd {
     background-color: rgb(255,0,162);
-    font-family: "Verdana", "DejaVu Sans", sans-serif;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 
 #item2 {
@@ -8,7 +8,7 @@
     font-size: 36px;
 }
 
-#item3 {
+.item3 {
     font-size: 24px;
 }
 
